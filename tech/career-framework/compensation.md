@@ -19,9 +19,9 @@ Besides salary or normalized salary, the formulas contain three multipliers. Use
 
 Let's assume an engineer with progress P = 1.80. Here are details of that career track and grade from the [grading overview](grades.md):
 
-| Track    | Min P | Max P | Grade | Job Title                | Min Salary | Next Salary |
-|----------|-------|-------|-------|--------------------------|------------|-------------|
-| Engineer | 1.20  | 2.40  | IC3   | {Discriminator} Engineer | 69000      | 98000       |
+| Track    | Min P | Max P | Grade | Job Title                   | Min Salary | Next Salary |
+|----------|-------|-------|-------|-----------------------------|------------|-------------|
+| Engineer | 1.20  | 2.40  | IC3   | {Discriminator} Engineer II | 69000      | 98000       |
 
 What would be the minimum salary for such engineer?
 
