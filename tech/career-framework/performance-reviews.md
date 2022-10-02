@@ -31,7 +31,7 @@ With a large organization, it is important that we are consistent in the evaluat
 
 It is responsibility of family leads to go through the following steps:
 - Add latest performance review results to `Reviews` sheet in the tech-wide payroll file. This sheet contains historical ratings so it's a data source that can be used to understand the 'delta'
-- Identify `calibration groups` that you want to look into - calibration group is a combination of a grade (e.g. `IC3` or `IC4`) and a track (e.g. `Engineer`). It doesn't make sense to compare career growth of employees on different tracks and and also people of different seniority (e.g. `IC2` against `IC4`)
+- Identify `calibration groups` that you want to look into - calibration group is a combination of a grade (e.g. `IC3` or `IC4`) and a track (e.g. `Engineer`). It doesn't make sense to compare career growth of employees on different tracks and also people of different seniority (e.g. `IC2` against `IC4`)
 -  Generally we check following:
   - See distribution of progress delta of each employee within the calibration group. Check for anomalies. Then review if the distribution is similar across families and teams with large enough statistical samples. The goal of this exercise is not to remove any anomalies, but to **understand why it is that way and if it is fair**. It is just an indicator that starts subsequent discussion.
   - Does the progress delta distribution look similar across all families? Should we check if managers in one family are too harsh or too nice?
