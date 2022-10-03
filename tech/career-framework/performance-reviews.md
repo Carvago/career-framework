@@ -13,6 +13,7 @@ Before the performance review, **allocate 2 hours** to prepare for it, to perfor
 
 ## Managers
 
+- Before the performance reivews, make sure you participate on the performance review training/workshop. There you can raise your questions or concerns, share your knowledge, share experience with difficult conversations and learn from each other.
 - In order to ensure consistency, we're doing performance reviews in a top-down manner. Therefore make sure you **first complete your own performance review** before doing performance reviews of your direct reports.
 - Make sure you **schedule more than 1 hour**, at least 90 minutes with your manager for performance reviews. As part of the process, go over the managerial 360 report and discuss all insights and talking points that come out of the 360.
 - Whom to involve into performance review talks?
@@ -25,9 +26,9 @@ Before the performance review, **allocate 2 hours** to prepare for it, to perfor
 
 When you receive the competency scores of a given employee, update the tech-wide payroll sheet with the scores and bump the reviewed column to performance review date. In addition, **review the payroll sheet**, identify whether the employees deserve a salary increase (review the last raise date, their minimum and index) and validate the increase with the 1st level manager. Make sure the salaries are fair, and nobody is under the minimum. Good practice is to also review the personal goals of independent contributors and provide adjustment feedback to the team leads, if necessary.
 
-## Consistency within Larger Organization
+### Consistency Checks (Calibration)
 
-With a large organization, it is important that we are consistent in the evaluation across various families, teams and managers. It starts with performance review training for managers and workshops that serve as a platform where people can share their difficult conversations and learn from each other. At the same time, engineering leadership is performing sanity check at the end of each performance review cycle to check if there are any anomalies that would be worth looking into. 
+With a large organization, it is important that we are consistent in the evaluation across various families, teams and managers. At the same time, engineering leadership is performing sanity checsk at the end of each performance review cycle to identify possible anomalies that would be worth looking into. 
 
 It is responsibility of family leads to go through the following steps:
 - Add latest performance review results to `Reviews` sheet in the tech-wide payroll file. This sheet contains historical ratings so it's a data source that can be used to understand the 'delta' (change of employees' progress since previous performance review)
@@ -35,5 +36,3 @@ It is responsibility of family leads to go through the following steps:
  - See distribution of progress delta of each employee within the calibration group. Check for anomalies. Then review if the distribution is similar across families and teams with large enough statistical samples. The goal of this exercise is not to remove any anomalies, but to **understand why it is that way and if it is fair**. It is just an indicator that starts subsequent discussion.
  - Does the progress delta distribution look similar across all families? Should we check if managers in one family are too harsh or too nice?
  - Do people at the beginning of their career grow faster than experienced employees with many years of experience? It is normal that people grow very quickly in their first job, while pace of progress growth typically slows down the higher the employee already is on their career ladder.
-  
-
