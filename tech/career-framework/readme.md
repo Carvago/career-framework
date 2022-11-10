@@ -38,13 +38,14 @@ There are a lot of activities happenning during each performance review cycle, t
 
 | Duration  | Activity |
 | ------------- | ------------- |
+| | [Training - Calibration sessions trainings for Managers](calibration.md#training---calibration-sessions-trainings-for-managers) |
 | 2 weeks | People prepare & submit their self-evaluation to their manager. People are encouraged to ask their colleagues for feedback in advance.  |
 | 2 weeks | Managers prepare draft of review & proposed rating/score. Submit proposals to their superiors. Proposed score gets collected in the global spreadsheet. |
-| 1 week | Pre-review Calibration sessions, Data-based sanity Check |
+| 1 week | [Pre-review Calibration sessions](calibration.md#pre-review-calibration), [Data-based sanity Check](calibration.md#data-based-sanity-check) |
 | | Green Light to proceed with review meetings |
-| 2 weeks | Performance Review Meetings |
+| 2 weeks | [Performance Review Meetings](performance-reviews.md) |
 | | Managers confirm final ratings to their superiors, propose title & salary adjustments (if applicable) |
 | | People team issues contract amendments for title & salary adjustments |
 | | Title & Salary adjustments Effective Date |
-| | Lessons Learned knowledge sharing session |
+| | [Lessons Learned knowledge sharing session](calibration.md#lessons-learned) |
 | | Survey |
