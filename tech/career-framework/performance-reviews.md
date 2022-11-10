@@ -25,14 +25,3 @@ Before the performance review, **allocate 2 hours** to prepare for it, to perfor
 ## Second Level Managers
 
 When you receive the competency scores of a given employee, update the tech-wide payroll sheet with the scores and bump the reviewed column to performance review date. In addition, **review the payroll sheet**, identify whether the employees deserve a salary increase (review the last raise date, their minimum and index) and validate the increase with the 1st level manager. Make sure the salaries are fair, and nobody is under the minimum. Good practice is to also review the personal goals of independent contributors and provide adjustment feedback to the team leads, if necessary.
-
-### Consistency Checks (Calibration)
-
-With a large organization, it is important that we are consistent in the evaluation across various families, teams and managers. At the same time, engineering leadership is performing sanity checsk at the end of each performance review cycle to identify possible anomalies that would be worth looking into. 
-
-It is responsibility of family leads to go through the following steps:
-- Add latest performance review results to `Reviews` sheet in the tech-wide payroll file. This sheet contains historical ratings so it's a data source that can be used to understand the 'delta' (change of employees' progress since previous performance review)
-- Identify `calibration groups` that you want to look into - calibration group is a combination of a grade (e.g. `IC3` or `IC4`) and a track (e.g. `Engineer`). It doesn't make sense to compare career growth of employees on different tracks and also people of different seniority (e.g. `IC2` against `IC4`)
- - See distribution of progress delta of each employee within the calibration group. Check for anomalies. Then review if the distribution is similar across families and teams with large enough statistical samples. The goal of this exercise is not to remove any anomalies, but to **understand why it is that way and if it is fair**. It is just an indicator that starts subsequent discussion.
- - Does the progress delta distribution look similar across all families? Should we check if managers in one family are too harsh or too nice?
- - Do people at the beginning of their career grow faster than experienced employees with many years of experience? It is normal that people grow very quickly in their first job, while pace of progress growth typically slows down the higher the employee already is on their career ladder.
