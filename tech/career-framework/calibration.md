@@ -1,4 +1,4 @@
-# Calibration
+# Calibration (Consistency Checks)
 
 With a large organization, it is important that we are consistent in the evaluation across various families, teams and managers. To achieve consistency across the board, there are several routines that take place during the performance review cycle:
 - Calibration sessions trainings for Managers
