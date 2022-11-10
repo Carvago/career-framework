@@ -31,3 +31,20 @@ There are several important events during the year that are focused on career an
 - **December** - [Performance Review 1/2](performance-reviews.md)
 
 The performance reviews are being done in a top-down manner to keep the expectations and requirements as synchronized as possible among the orgchart branches. Therfore we allocate two months for the performance reviews. Usually the management layers are done during the first month, individual contributor performance reviews the second month.
+
+## Timeline
+
+There are a lot of activities happenning during each performance review cycle, the table below highlights the most important ones:
+
+| Duration  | Activity |
+| ------------- | ------------- |
+| 2 weeks | People prepare & submit their self-evaluation to their manager. People are encouraged to ask their colleagues for feedback in advance.  |
+| 2 weeks | Managers prepare draft of review & proposed rating/score. Submit proposals to their superiors. Proposed score gets collected in the global spreadsheet. |
+| 1 week | Pre-review Calibration sessions, Data-based sanity Check |
+| | Green Light to proceed with review meetings |
+| 2 weeks | Performance Review Meetings |
+| | Managers confirm final ratings to their superiors, propose title & salary adjustments (if applicable) |
+| | People team issues contract amendments for title & salary adjustments |
+| | Title & Salary adjustments Effective Date |
+| | Lessons Learned knowledge sharing session |
+| | Survey |
