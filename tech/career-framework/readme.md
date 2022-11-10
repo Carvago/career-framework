@@ -15,6 +15,7 @@ In order to determine all of this and **ensure that everyone progresses forward*
 1. [Competency Assessment](competency-assessment.md)
 1. [Personal Goals](personal-goals.md)
 1. [Performance Catchups](performance-catchups.md)
+1. [Calibration (Consistency Check)](calibration.md)
 
 ## Calendar
 
