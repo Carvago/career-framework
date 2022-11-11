@@ -18,7 +18,9 @@ Having people aligned on expectations from each role up front is the most effici
     
 ## Pre-review Calibration
 
-This step helps us to catch possible inconsistencies early in the cycle, before the final performance ratings would be communicated to employees. The process is following:
+This step helps us to catch possible inconsistencies early in the cycle, before the final performance ratings would be communicated to employees. We want to encourage in-person discussion about proposed ratings and keep these calibration discussions within groups of managers managing similar groups of people.
+
+The process is following:
 - Employees fill in their self-rating in the competency spreadsheet and submit it to their manager AHEAD of the performance review meeting. Employees are encouraged to ask their colleagues for feedback before submitting the self-review.
 - Managers prepare draft of the performance reviews for the employees based on their self-evaluation, feedback collected and performance observed over the last 6 months.
 - Managers submit the proposed score to their superiors (eg. Engineering Managers submit proposed score of their ICs to Engineering Directors). The draft score is added to the global spreadsheet.
@@ -37,14 +39,17 @@ Please note that we are still talking only about draft - proposed - rating. Whil
 
 ## Data-based Sanity Check
 
-There is no good way how to do detailed calibration check across large organization or large number of teams. Therefore   we are doing just a sanity check on statistical data collected:
+There is no good way how to do detailed calibration check across large organization or large number of teams. Therefore we are doing just a sanity check on statistical data collected:
 
 - During this exercise, we are looking at the proposed ratings already collected (see Pre-review Calibration chapter).
 - Latest proposals for performance review score is in the global tech spreadsheet. This sheet contains historical ratings too so this is a data source that can be used to understand the 'delta' (change of employees' progress since previous performance review)
-- Identify calibration groups that you want to look into - calibration group is a combination of a grade (e.g. IC3 or IC4) and a track (e.g. Engineer). It doesn't make sense to compare career growth of employees on different tracks and also people of different seniority (e.g. IC2 against IC4). So one example of calibration group could be `Engineers who were at IC3 grade before this review cycle`
-- See distribution of progress delta of each employee within the calibration group. Check for anomalies. Then review if the distribution is similar across families and teams with large enough statistical samples. The goal of this exercise is not to remove any anomalies, but to understand why it is that way and if it is fair. It is just an indicator that starts subsequent discussion.
-- Does the progress delta distribution look similar across all families? Should we check if managers in one family are too harsh or too nice?
-- Do people at the beginning of their career grow faster than experienced employees with many years of experience? It is normal that people grow very quickly in their first job, while pace of progress growth typically slows down the higher the employee already is on their career ladder.
+- It doesn't make sense to compare career growth of employees on different tracks and also people of different seniority (e.g. IC2 against IC4). Therefore we need to split people into `Calibration Groups` - calibration group is a combination of a grade (e.g. IC3 or IC4) and a track (e.g. Engineer). So one example of calibration group could be `Engineers who were at IC3 grade before this review cycle`
+- The steps below need to be done separately for each calibration group you want to look into:
+  - 1.) See distribution of progress deltas (of each employee) within the calibration group. Check for anomalies. Does the progress delta distribution look similar across all families? Should we check if managers in one family are too harsh or too nice?
+    - Then review if the distribution is similar across families and teams with large enough statistical samples. 
+    - The goal of this exercise is not to remove any anomalies, but to understand why it is that way and if it is fair. It is just an indicator that starts subsequent discussion. 
+  - 2.) Do people at the beginning of their career grow faster than experienced employees with many years of experience? 
+    - It is normal that people grow very quickly in their first job, while pace of progress growth typically slows down the higher the employee already is on their career ladder.
 
 
 ## Lessons Learned
