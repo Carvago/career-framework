@@ -30,11 +30,11 @@ There are several important events during the year that are focused on career an
 - **November** - [Performance Catchup](performance-catchups.md)
 - **December** - [Performance Review 1/2](performance-reviews.md)
 
-The performance reviews are being done in a top-down manner to keep the expectations and requirements as synchronized as possible among the orgchart branches. Therfore we allocate two months for the performance reviews. Usually the management layers are done during the first month, individual contributor performance reviews the second month.
+The performance reviews are being done in a top-down manner to keep the expectations and requirements as synchronized as possible among the org chart branches. Therefore we allocate two months for the performance reviews. Usually the management layers are done during the first month, individual contributor performance reviews the second month.
 
 ## Timeline
 
-There are a lot of activities happenning during each performance review cycle, the table below highlights the most important events during a typical review cycle:
+There are a lot of activities happening during each performance review cycle, the table below highlights the most important events during a typical review cycle:
 
 | Week # | Activity / Milestone |
 | ------------- | ------------- |
