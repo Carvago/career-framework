@@ -1,17 +1,18 @@
 # Calibration (Consistency Checks)
 
 With a large organization, it is important that we are consistent in the evaluation across various families, teams and managers. To achieve consistency across the board, there are several routines that take place during the performance review cycle:
-- Calibration sessions trainings for Managers
+- Calibration Training for Managers
 - Pre-review Calibration
 - Data-based Sanity Check
 - Lessons Learned
 	
   
-## Training - Calibration sessions trainings for Managers
+## Calibration Training for Managers
 
-Having people aligned on expectations from each role up front is the most efficient way. We are going to have a sessions with managers before each performance review cycle to make sure everyone has the same understanding of:
-- Impact expectations from each Level (Beginner, Intermediate, Advanced, Expert, Leading Expert) - especially for `Expert` and `Leading Expert` level there is sometimes confusion what is the expected impact of relevant competencies 
-- Are we looking for these expectations as grow aspect or performance (role responsibility) aspect? Competencies once achieved are not guaranteed to be retained for ever
+Having people aligned on expectations from each role up front is the most efficient way. We are going to have a session with managers before each performance review cycle to make sure everyone has the same understanding of:
+- Impact expectations from each Level (Beginner, Intermediate, Advanced, Expert, Leading Expert) - especially for `Expert` and `Leading Expert` level there is sometimes confusion what is the expected impact of relevant competencies.
+- Each role has certain responsibilities and fullfilling them well is a prerequisite for having a good performance in a given role. And also, people can be demonstrating additional competencies that are required for advancement in their career. We need to make sure we are recognizing these two categories and not rewarding behaviours where people would be just going after the next-level competencies without doing their current role well.
+- Competencies once achieved are not guaranteed to be retained for ever.
 - What should be the manager's action if people are under-performing or over-performing.
 - Make sure everyone is aware of additional resources - Examples of Competency Interpretations. Opportunity to discuss questions within larger group to get more opinions.
 		
@@ -31,7 +32,6 @@ The process is following:
   - For small families, it makes sense to do a combined session with members of 2 families together. The similar calibration sessions should also happen on higher levels:
     - VP & Engineering Directors reviewing draft ratings of Engineering Managers
     - CTO & VPs reviewing draft ratings of Engineering Directors
-
 - Manager might be asked/encouraged to change proposed rating for employee if it turns out that his/her original evaluation of employee wasn't consistent with other managers.
 
 Please note that we are still talking only about draft - proposed - rating. While often this will accurately represent the fair employee's assessment, there can be situations when some new important information is comes up on the actual performance review meeting with employee later and it can lead to rating adjustment in either direction. That is fine but such occurrences should be relatively rare.
