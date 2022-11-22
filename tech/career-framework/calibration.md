@@ -11,8 +11,8 @@ With a large organization, it is important that we are consistent in the evaluat
 
 Having people aligned on expectations from each role up front is the most efficient way. We are going to have a session with managers before each performance review cycle to make sure everyone has the same understanding of:
 - Impact expectations from each Level (Beginner, Intermediate, Advanced, Expert, Leading Expert) - especially for `Expert` and `Leading Expert` level there is sometimes confusion what is the expected impact of relevant competencies.
-- Each role has certain responsibilities and fullfilling them well is a prerequisite for having a good performance in a given role. And also, people can be demonstrating additional competencies that are required for advancement in their career. We need to make sure we are recognizing these two categories and not rewarding behaviours where people would be just going after the next-level competencies without doing their current role well.
-- Competencies once achieved are not guaranteed to be retained for ever.
+- Each role has certain responsibilities and fulfilling them well is a prerequisite for having a good performance in a given role. And also, people can be demonstrating additional competencies that are required for advancement in their career. We need to make sure we are recognizing these two categories and not rewarding behaviors where people would be just going after the next-level competencies without doing their current role well.
+- Competencies once achieved are not guaranteed to be retained forever.
 - What should be the manager's action if people are under-performing or over-performing.
 - Make sure everyone is aware of additional resources - Examples of Competency Interpretations. Opportunity to discuss questions within larger group to get more opinions.
 		
@@ -24,10 +24,10 @@ This step helps us to catch possible inconsistencies early in the cycle, before 
 The process is following:
 - Employees fill in their self-rating in the competency spreadsheet and submit it to their manager AHEAD of the performance review meeting. Employees are encouraged to ask their colleagues for feedback before submitting the self-review.
 - Managers prepare draft of the performance reviews for the employees based on their self-evaluation, feedback collected and performance observed over the last 6 months.
-- Managers submit the proposed score to their superiors (eg. Engineering Managers submit proposed score of their ICs to Engineering Directors). The draft score is added to the global spreadsheet.
+- Managers submit the proposed score to their superiors (e.g. Engineering Managers submit proposed score of their ICs to Engineering Directors). The draft score is added to the global spreadsheet.
 - Pre-review calibration sessions are organized within various groups:
   - For each family, its Engineering Director and all Engineering Managers meet and go through:
-    - For all promotions to senior roles and higher (eg. to Senior Engineer and higher for IC track), discuss justification/achievements
+    - For all promotions to senior roles and higher (e.g. to Senior Engineer and higher for IC track), discuss justification/achievements
     - Review list of people not progressing at all, people progressing significantly faster than others - discuss 
   - For small families, it makes sense to do a combined session with members of 2 families together. The similar calibration sessions should also happen on higher levels:
     - VP & Engineering Directors reviewing draft ratings of Engineering Managers
