@@ -13,7 +13,7 @@ Before the performance review, **allocate 2 hours** to prepare for it, to perfor
 
 ## Managers
 
-- Before the performance reivews, make sure you participate on the performance review training/workshop. There you can raise your questions or concerns, share your knowledge, share experience with difficult conversations and learn from each other.
+- Before the performance reviews, make sure you participate in the performance review training/workshop. There you can raise your questions or concerns, share your knowledge, share experiences with difficult conversations and learn from each other.
 - In order to ensure consistency, we're doing performance reviews in a top-down manner. Therefore make sure you **first complete your own performance review** before doing performance reviews of your direct reports.
 - Make sure you **schedule more than 1 hour**, at least 90 minutes with your manager for performance reviews. As part of the process, go over the managerial 360 report and discuss all insights and talking points that come out of the 360.
 - Whom to involve into performance review talks?
