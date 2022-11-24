@@ -15,6 +15,7 @@ In order to determine all of this and **ensure that everyone progresses forward*
 1. [Competency Assessment](competency-assessment.md)
 1. [Personal Goals](personal-goals.md)
 1. [Performance Catchups](performance-catchups.md)
+1. [Calibration (Consistency Check)](calibration.md)
 
 ## Calendar
 
@@ -29,4 +30,21 @@ There are several important events during the year that are focused on career an
 - **November** - [Performance Catchup](performance-catchups.md)
 - **December** - [Performance Review 1/2](performance-reviews.md)
 
-The performance reviews are being done in a top-down manner to keep the expectations and requirements as synchronized as possible among the orgchart branches. Therfore we allocate two months for the performance reviews. Usually the management layers are done during the first month, individual contributor performance reviews the second month.
+The performance reviews are being done in a top-down manner to keep the expectations and requirements as synchronized as possible among the org chart branches. Therefore we allocate two months for the performance reviews. Usually the management layers are done during the first month, individual contributor performance reviews the second month.
+
+## Timeline
+
+There are a lot of activities happening during each performance review cycle, and the table below highlights the most critical events during a typical review cycle:
+
+| Week # | Activity / Milestone |
+| ------------- | ------------- |
+| 0 | [Training - Calibration Trainings for Managers](calibration.md#training---calibration-training-for-managers) - should be done shortly before the review cycle starts |
+| 1-2 | People prepare & submit their self-evaluation to their manager. People are encouraged to ask their colleagues for feedback in advance. ([Details](calibration.md#pre-review-calibration))|
+| 2-3 | Managers prepare a draft of the review & proposed rating/score. Submit proposals to their superiors. The proposed score gets collected in the global spreadsheet. ([Details](calibration.md#pre-review-calibration))|
+| 4 | [Pre-review Calibration sessions](calibration.md#pre-review-calibration), [Data-based sanity Check](calibration.md#data-based-sanity-check) |
+| 4 | Green Light to proceed with review meetings |
+| 5-7 | [Performance Review Meetings](performance-reviews.md) |
+| 8| Managers confirm final ratings to their superiors and propose title & salary adjustments (if applicable). Change requests are entered into the HR system. |
+| 9| Survey to collect pain points |
+| 10| [Lessons Learned knowledge sharing session](calibration.md#lessons-learned) |
+
