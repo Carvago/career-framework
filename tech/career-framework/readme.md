@@ -6,14 +6,19 @@ In order to determine all of this and **ensure that everyone progresses forward*
 
 ## Contents
 
-- [Competencies](competencies.md)
-- [Progress](progress.md)
-- [Career Tracks](career-tracks/readme.md)
-- [Grades](grades.md)
-- [Compensation](compensation.md)
+- Structure 
+  - [Competencies](competencies.md)
+  - [Progress](progress.md)
+  - [Career Tracks](career-tracks/readme.md)
+  - [Grades](grades.md)
+  - [Compensation](compensation.md)
 - [Performance Reviews](performance-reviews/readme.md)
   - [Competency Assessment](performance-reviews/competency-assessment.md)
-  - [Calibration](performance-reviews/calibration.md)
+  - [Performance Review Meeting](performance-reviews/performance-review-meeting.md)
+  - [Managers](performance-reviews/managers/readme.md)
+    - [Training](performance-reviews/managers/training.md)
+    - [Calibration](performance-reviews/managers/calibration.md)
+	- [Retrospective](performance-reviews/managers/retrospective.md)
 - [Performance Catchups](performance-catchups/readme.md)
   - [Personal Goals](performance-catchups/personal-goals.md)
 
