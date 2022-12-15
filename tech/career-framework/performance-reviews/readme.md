@@ -8,13 +8,13 @@ The performance reviews are being done in a top-down manner to keep the expectat
 
 There are a lot of activities happening during each performance review cycle, and the table below highlights the most critical events during a typical review cycle:
 
-| Week # | Participants | Activity / Milestone |
-| ------ | ------------ | -------------------- |
-| 0      | Managers     | Shortly before the review cycle starts, a [manager training](managers/training.md) should be done to align the expectations. |
-| 1 - 2  | **Everyone** | People should perform [self-assessment of their competencies](competency-assessment.md) and submit the results to their manager. |
-| 2 - 3  | Managers     | Managers prepare draft competency scores and submit that to their superiors. The proposed scores gets collected in the global spreadsheet. |
-| 4      | Managers     | Managers take part in the [pre-review calibration sessions](managers/calibration.md). |
-| 5 - 7  | **Everyone** | Everyone participates in the [performance review meetings](performance-review-meeting.md) with their managers. |
-| 8      | Managers     | Managers confirm final ratings to their superiors and propose job title, salary and other adjustments (if applicable). Change requests are entered into the HR system. |
-| 9      | **Everyone** | We conduct a survey to collect feedback from everyone. |
-| 10     | Managers     | After the feedback survey is completed, managers run a [retrospective](managers/retrospective.md). |
+| Week      | Participants | Activity / Milestone |
+| --------- | ------------ | -------------------- |
+| 0         | Managers     | Shortly before the review cycle starts, a [manager training](managers/training.md) should be done to align the expectations. |
+| **1 - 2** | **Everyone** | **People [self-assess their competencies](competency-assessment.md) and submit the results to their managers.** |
+| 2 - 3     | Managers     | Managers prepare draft competency scores and submit that to their superiors. The proposed scores gets collected in the global spreadsheet. |
+| 4         | Managers     | Managers take part in the [pre-review calibration sessions](managers/calibration.md). |
+| **5 - 7** | **Everyone** | **Everyone participates in the [performance review meetings](performance-review-meeting.md) with their managers.** |
+| 8         | Managers     | Managers confirm final scores to their superiors and propose job title, salary and other adjustments (if applicable). Change requests are entered into the HR system. |
+| 9         | **Everyone** | We conduct a survey to collect feedback from everyone. |
+| 10        | Managers     | After the feedback survey is completed, managers run a [retrospective](managers/retrospective.md). |

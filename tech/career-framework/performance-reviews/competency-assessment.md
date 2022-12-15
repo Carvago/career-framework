@@ -1,6 +1,6 @@
 # Competency Assessment
 
-The biggest part of preparation for a performance review is competency assessment. The process differs based on whether you do it for the first time or whether it's a follow-up self assessment. Second part of competency assessment is discussion with the manager and alignment on the competencies during the performance review itself. All of these processes are described below. Either way, make sure to ask your colleagues for feedback in advance before doing the competency assessment.
+The biggest part of preparation for a performance review is competency assessment, make sure you reserve at least 2 hours for that. The process differs based on whether you do it for the first time or whether it's a follow-up self assessment. Results of the competency self assessment are used on [performance review meeting](performance-review-meeting.md) as input to discussion with your manager. Make sure to ask your colleagues for feedback in advance before doing the competency assessment.
 
 ## First-time Self Assessment
 
@@ -12,7 +12,7 @@ We use Excel (OneDrive) sheet to track your competencies and progress. Every per
 
 ![image](https://user-images.githubusercontent.com/435787/176137660-13f860c3-5eb3-4908-a8d2-283bed63864f.png)
 
-## Grace Period
+### Grace Period
 
 Everyone who has been with the company for at least three months will have a performance review. While our career framework works very well for more seasoned employees, recent hires might still need more time and opportunities to demonstrate all expected competencies during the first few months of employment. 
 
