@@ -1,6 +1,9 @@
 # Managers
 
-- Before the performance reviews, make sure you participate in the performance review training/workshop. There you can raise your questions or concerns, share your knowledge, share experiences with difficult conversations and learn from each other.
+Managers participate in the performance reviews just like anyone else, but on top of that, they also facilitate performance reviews for their direct reports. Here are some things to take into account during performance reviews as a manager:
+
+- Before the performance reviews, make sure you participate in the performance review [training](training.md). There you can raise your questions or concerns, share your knowledge, share experiences with difficult conversations and learn from each other.
+- Before performance review meetings, participate in the [calibration](calibration.md) sessions to gain a wider perspective on your team.
 - In order to ensure consistency, we're doing performance reviews in a top-down manner. Therefore make sure you **first complete your own performance review** before doing performance reviews of your direct reports.
 - Make sure you **schedule more than 1 hour**, at least 90 minutes with your manager for performance reviews. As part of the process, go over the managerial 360 report and discuss all insights and talking points that come out of the 360.
 - Whom to involve into performance review talks?
@@ -8,6 +11,7 @@
   - If you as a manager seek more underlying feedback regarding technical skills, include the relevant technical leader.
   - If you inherited a new report recently, include the previous manager in the performance conversation.
   - Before the performance review, consider gathering feedback from relevant peers of your direct report, as they usually have valuable insights.
+- Throughout the process, note down difficulties or issues. After the [performance review meetings](../performance-review-meeting.md) are done, be sure to share your learnings during the [retrospective](retrospective.md).
 
 ## Second Level Managers
 
