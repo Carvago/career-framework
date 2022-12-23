@@ -6,7 +6,7 @@ The process is the following:
 
 - Employees fill in their self-rating in the competency spreadsheet and submit it to their manager **ahead** of the performance review meeting. Employees are encouraged to ask their colleagues for feedback before submitting the self-review.
 - Managers prepare a draft of the performance reviews for the employees based on their self-evaluation, feedback collected and performance observed over the last six months.
-- Technical leaders prepare overview of responsibilities of their guild members and whether those correspond to the seniority. E.g. who of the more senior members of guild are not yet involved in code reviews as codeowners.
+- Technical leaders prepare overview of responsibilities of their guild members and whether those correspond to the seniority. E.g. which senior guild members are not yet involved in code reviews as codeowners. Or, on contrary, which junior guild members already have more responsibilities. 
 - Managers submit the proposed score to their superiors (e.g. Engineering Managers submit the proposed score of their ICs to Engineering Directors). The draft score is added to the global spreadsheet.
 - Pre-review calibration sessions are organized within various groups:
   - For each family, its Engineering Director and all Engineering Managers meet and go through the following:
