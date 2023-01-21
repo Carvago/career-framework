@@ -91,7 +91,7 @@ Analysis, creativity, breakdown of problems, architecture of solutions.
   - You are able to come up with iterative solutions that would lead to continuous delivery of value (aka slicing).
   - Your are able to anticipate problems and design solutions in a way that they reduce failure scenarios. Your solutions are future-proof and resilient against mistakes by others. You are able to identify edge cases early on.
   - You are able to zoom out, utilize data, technical strategy, product strategy, company strategy and other relevant context to inform the decisions you make. Your solutions are built for the long term and in alignment with the overall direction.
-  - You reflect on solutions you have created, measure their impact, retrospect on how they were delivered and use that information to ideate and optimize future work. 
+  - You reflect on solutions you have created, measure their impact, retrospect on how they were delivered and use that information to ideate and optimize future work.
   - You are able to facilitate problem solving situations, identify coupled issuses, decouple them and help the group to reach consensus.
   - You are able to identify recurring problems and find root causes. You are able to solve the problems in more systematical way, than just ad-hoc solutions.
 - **Expert**
@@ -154,13 +154,13 @@ Responsibility, decision making, mentoring, setting an example.
 - **Intermediate**
   - You are able to motivate and lead more junior peers in your team.
   - You proactively act on the received feedback and put actionable steps in place to address it.
-  - You help create a safe environment for others  by being respectful and aware of cultural differences. You embody the Mews values.
+  - You help create a safe environment for others by being respectful and aware of cultural differences. You embody the Mews values.
   - You take on small roles that involve direct leadership (being a mentor, running a working group, small initiative or project).
   - You are generous with your time and make sure you are available for others. You are not perceived as always busy.
 - **Advanced**
   - You take action or delegate when there is a problem without a clear owner. You don't shy away from being the accountable party.
   - You inspire and motivate others to tackle projects.
-  - You foster an environment where people feel comfortable asking questions. You advocate for learning, not blaming. 
+  - You foster an environment where people feel comfortable asking questions. You advocate for learning, not blaming.
   - You are decisive, and your good business sense and technical depth are an asset to the decision making process. You are democratic when alignment is required, you are more authoritative when time/urgency is key.
   - You turn ideas into opportunities which can be later turned into meaningful tracks of work and picked up by your teammates or other teams. And ultimately those ideas result in success.
   - You often take on roles involving direct leadership (for example, coordinating a long-term project or initiative).

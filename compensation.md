@@ -11,8 +11,8 @@ The minimum salary is expressed in a normalized form, which is a monthly salary 
 
 Besides salary or normalized salary, the formulas contain three multipliers. Use the following values based on your salary period, currency and country. How to do that in practice is described in the examples section below.
 
-| Period | Currency | Country |
-|--------|----------|---------|
+| Period                                                   | Currency                                                                                                  | Country                                                                                                                                                                                                                                                                                                                                                                        |
+| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Hour** - 160<br/> **Month** - 1 <br/>**Year** - 0.0833 | **CZK** - 1<br/> **EUR** - 26<br/> **GBP** - 30<br/> **USD** - 22<br/> **HRK** - 3.3<br/> **HUF** - 0.062 | **CZ** - 1.00<br/> **UK** - 0.60<br/> **NL** - 0.55<br/> **DE** - 0.55<br/> **BE** - 0.55<br/> **FR** - 0.65<br/> **ES** - 0.75<br/> **US** - 0.50<br/> **NO** - 0.55<br/> **HR** - 1.15<br/> **HU** - 1.50<br/> **AT** - 0.70<br/> **BG** - 1.65<br/> **PT** - 0.85<br/> **JE** - 0.6<br/> **IE** - 0.6<br/> **IT** - 0.8<br/> **MK** - 1.5<br/> **DK** - 0.5<br/> **PL** - 1 |
 
 ## Examples
@@ -20,7 +20,7 @@ Besides salary or normalized salary, the formulas contain three multipliers. Use
 Let's assume an engineer with progress P = 1.80. Here are details of that career track and grade from the [grading overview](grades.md):
 
 | Track    | Min P | Max P | Grade | Job Title                   | Min Salary | Next Salary |
-|----------|-------|-------|-------|-----------------------------|------------|-------------|
+| -------- | ----- | ----- | ----- | --------------------------- | ---------- | ----------- |
 | Engineer | 1.20  | 2.40  | IC3   | {Discriminator} Engineer II | 69000      | 98000       |
 
 What would be the minimum salary for such engineer?
@@ -32,8 +32,8 @@ What would be the minimum salary for such engineer?
 
 ## Next Salary
 
-We acknowledge that it takes long time to increase overall progress e.g. for an engineer from 1.20 above 2.40 it might take a few years. That doesn't mean there should be no raise during that period, managers are reviewing compensation much more frequently, at least every 6 months. Plus they're taking other factors into account. In order to capture this, we use min progress (`x0`), max progress (`x1`), min salary (`y0`) and next salary (`y1`) and look at the linear interpolation of min salary (`y`) based on exact progress (`x`). 
+We acknowledge that it takes long time to increase overall progress e.g. for an engineer from 1.20 above 2.40 it might take a few years. That doesn't mean there should be no raise during that period, managers are reviewing compensation much more frequently, at least every 6 months. Plus they're taking other factors into account. In order to capture this, we use min progress (`x0`), max progress (`x1`), min salary (`y0`) and next salary (`y1`) and look at the linear interpolation of min salary (`y`) based on exact progress (`x`).
 
 <img alt="Salary interpolation" height="200px" src="https://user-images.githubusercontent.com/435787/131226550-929f09fa-0272-45de-b9f2-fa3d7df6e321.png">
 
-So if the progress of an engineer is 1.80, which is right between min progress (1.20) and max progress (2.40), their salary should be somewhere around the midpoint of min salary (69000) and next salary (98000), which is 83500. This is used just as an **indicator**, this is not a guarantee. However it allows us to progressively raise salary fairly, even if grades don't change for longer periods of time. On the other hand, we are not giving a raise with every single 0.1 increment in progress. The rule of thumb we use: if salary of a person gets lower than 90% of the interpolation (`y`) thanks the their increased progress (`x`), we consider to give a raise the person. So following up on the example above, an engineer with salary 69000 and progress 1.80 is at **cca 83% of the interpolated salary 83500**. Therefore we'd align them with the interpolated salary and give them a raise. 
+So if the progress of an engineer is 1.80, which is right between min progress (1.20) and max progress (2.40), their salary should be somewhere around the midpoint of min salary (69000) and next salary (98000), which is 83500. This is used just as an **indicator**, this is not a guarantee. However it allows us to progressively raise salary fairly, even if grades don't change for longer periods of time. On the other hand, we are not giving a raise with every single 0.1 increment in progress. The rule of thumb we use: if salary of a person gets lower than 90% of the interpolation (`y`) thanks the their increased progress (`x`), we consider to give a raise the person. So following up on the example above, an engineer with salary 69000 and progress 1.80 is at **cca 83% of the interpolated salary 83500**. Therefore we'd align them with the interpolated salary and give them a raise.

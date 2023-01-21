@@ -1,4 +1,4 @@
-# Data Science Team Lead
+# Data Team Lead
 
 ## Responsibilities
 

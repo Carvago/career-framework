@@ -1,6 +1,17 @@
-# IT Security Engineer
+# DevOps Engineer
 
 ## Responsibilities
+
+- Owning or participating in IT projects.
+- Designing and installing new hardware and systems.
+- Training staff on newly installed hardware, systems and tools.
+- Troubleshooting network, system and software issues.
+- Fixing hardware, software, and networking issues.
+- Responding to general IT requests.
+- Ensuring security software is kept up to date.
+- Keeping internal knowledge base up to date.
+- Continuously helping to improve our processes.
+- Keeping up with current industry trends in your domain.
 
 - Understanding the high-level picture of the organization structure, platform strategy, usage, products built on top of it.
 - Solutioning IT security initiatives, driving their delivery in an iterative manner and enuring the technical quality.
