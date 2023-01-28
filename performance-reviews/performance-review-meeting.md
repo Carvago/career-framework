@@ -1,6 +1,6 @@
 # Performance Review Meeting
 
-The main event in the whole performance review cycle is a performance review meeting with your manager. Before the meeting, make sure you have the [competency assessment](competency-assessment.md) completed, think about progress on your personal goals, think of possible new personal goals and also retrospect on your past successes and failures. 
+The main event in the whole performance review cycle is a performance review meeting with your manager. Before the meeting, make sure you have the [competency assessment](competency-assessment.md) completed, think about progress on your personal goals, think of possible new personal goals and also retrospect on your past successes and failures.
 
 ## Agenda
 
@@ -24,4 +24,4 @@ After you are both aligned, identify some opportunities for improvement. Focus m
 
 Usually, you have your primary career track, that's the one you're currently at. And you have an aspirational career track, that's the one where you would like to be at going forward. So you should focus on competencies that are important for both of those tracks ideally. If it's a single track, then it's even simpler.
 
-As a last step, update the weights in the Summary sheet according to your current career track [competency weights](../career-tracks/readme.md) and send a screenshot of the sheet to your manager. You can also play with the weights and try other career tracks - that can help you identify what could be your career progression based on your current competencies.
+As a last step, update the weights in the Summary sheet according to your current career track [competency weights](../readme.md#career-tracks) and send a screenshot of the sheet to your manager. You can also play with the weights and try other career tracks - that can help you identify what could be your career progression based on your current competencies.

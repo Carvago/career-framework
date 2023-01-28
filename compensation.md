@@ -1,10 +1,10 @@
 # Compensation
 
-We don't have exact salary bands, we define **lower bounds** based on your [career track](career-tracks/readme.md) and [grade](grades.md). The main purpose of the lower bounds is to ensure **fairness** across whole tech team and that nobody is underpaid. And as you get better, it also ensures that getting a raise is **guaranteed**. So at the moment, it's mainly an "alerting" mechanism for managers rather than a magic formula that determines the exact salary, especially because we acknowledge that the competencies do not capture full spectrum of stuff that everyone does.
+We don't have exact salary bands, we define **lower bounds** based on your [career track](readme.md#career-tracks) and [grade](grades.md). The main purpose of the lower bounds is to ensure **fairness** across whole tech team and that nobody is underpaid. And as you get better, it also ensures that getting a raise is **guaranteed**. So at the moment, it's mainly an "alerting" mechanism for managers rather than a magic formula that determines the exact salary, especially because we acknowledge that the competencies do not capture full spectrum of stuff that everyone does.
 
 ## Normalization
 
-The minimum salary is expressed in a normalized form, which is a monthly salary in Czech Republic in CZK. That is what majority of our team "thinks in", however we are a global company, employing people in multiple countries, paying in different currencies and offering different types of salaries (hourly rate, monthly, annual). So in order to convert between salary and normalized salary use the following formulas:
+The minimum salary is expressed in a normalized form, which is a monthly salary in Czech Republic in CZK. That is what majority of our team "thinks in". However, we employ people in multiple countries, pay in different currencies and offer different types of salaries (hourly rate, monthly, annual). So in order to convert between salary and normalized salary use the following formulas:
 
 - `normalized = salary × period × currency × country`
 - **`salary = normalized / (period × currency × country)`**
@@ -19,9 +19,9 @@ Besides salary or normalized salary, the formulas contain three multipliers. Use
 
 Let's assume an engineer with progress P = 1.80. Here are details of that career track and grade from the [grading overview](grades.md):
 
-| Track    | Min P | Max P | Grade | Job Title                   | Min Salary | Next Salary |
-| -------- | ----- | ----- | ----- | --------------------------- | ---------- | ----------- |
-| Engineer | 1.20  | 2.40  | IC3   | {Discriminator} Engineer II | 69000      | 98000       |
+| Track    | Min P | Max P | Job Title                | Min Salary | Next Salary |
+| -------- | ----- | ----- | ------------------------ | ---------- | ----------- |
+| Engineer | 1.20  | 2.40  | {Discriminator} Engineer | 69000      | 98000       |
 
 What would be the minimum salary for such engineer?
 
