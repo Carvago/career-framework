@@ -1,6 +1,6 @@
 # Competencies
 
-We're basing our competencies on [Etsy's competency model](https://etsy.github.io/Etsy-Engineering-Career-Ladder/competencies.html) which is a set of engineering competencies and skills several other big companies collaborated on, e.g. including Spotify. What we like the most about the model is, that it is actually **very ambitious** and in order to get to the top level in some competencies, it really requires technical or other excellence and industry thought leadership. It is not a shame at all if your level would be beginner in most of the competencies, level advanced already represents rather senior people. Level expert or especially leading expert truly means an industry expert and there are not many of those. So we took Etsy's model and adjusted it to Mews needs, our culture and values.
+Our competencies are actually **very ambitious** and in order to get to the top level in some competencies, it really requires technical or other excellence and industry thought leadership. It is not a shame at all if your level would be beginner in most of the competencies, level advanced already represents rather senior people. Level expert or especially leading expert truly means an industry expert and there are not many of those.
 
 It is supposed to be aspirational, so if you're not sure, put in lower score or level. The **goal is to get better**, the goal is not to check all the boxes. The competency model is designed primarily for engineers, but with a little bit of stretch and interpretation, it is usable for all divisions and roles within technical department. There are five following competencies.
 
@@ -21,7 +21,7 @@ Planning, prioritization, predictability, continuous delivery, testing and monit
   - You build solutions that are simple yet universal, take context into account to apply right level of abstraction to avoid over engineering.
   - You identify important product, technical or design tradeoffs. You don't blindly accept assignments, you negotiate and discuss them with relevant stakeholders.
   - You're considering the effect your work has outside your team. You assess how your solutions will impact overall infrastructure, product and other teams.
-  - You follow Mews best practices, get up to speed with newly introduced ones and apply them in your work (idiomatic code, code style, architecture practices, way of working of the team etc).
+  - You follow Carvago best practices, get up to speed with newly introduced ones and apply them in your work (idiomatic code, code style, architecture practices, way of working of the team etc).
 - **Advanced**
   - You collaboratively roadmap large tracks of work with reliable estimates of time, effort, and risk, and you help ensure your team can hit deadlines.
   - You communicate with teammates, collaborators, and stakeholders, and you take responsibility for your plans, both when they're on track and when they aren't.
@@ -32,14 +32,14 @@ Planning, prioritization, predictability, continuous delivery, testing and monit
 - **Expert**
   - You bring together the work of many teams and individuals into a cohesive, achievable plan that aligns with goals and deadlines.
   - You introduce new practices to ensure the quality, production readiness, and continued health of complex systems.
-  - You incorporate awareness and understanding of work happening in Mews overall to minimize surprises and make projects more likely to succeed.
+  - You incorporate awareness and understanding of work happening in Carvago overall to minimize surprises and make projects more likely to succeed.
   - You use variety of product and project management techniques depending on the context: You are more agile when risk is low; You plan things more thoroughly when the risk is high.
-  - You utilize Mews metrics in a thoughtful manner to reflect on our work and to help others overcome obstacles in their delivery.
+  - You utilize Carvago metrics in a thoughtful manner to reflect on our work and to help others overcome obstacles in their delivery.
 - **Leading Expert**
   - You remove widely-felt barriers to productivity, finding ways to make the entire engineering organization more effective at shipping products and infrastructure.
   - You create tools to help engineers deliver, test, and monitor software that can be used across the industry.
   - You work on the tasks that matter most, even if your capabilities far outweigh the challenge.
-  - You are considered a critical part of Mews business success.
+  - You are considered a critical part of Carvago business success.
 
 ## 📚 Domain Expertise
 
@@ -53,24 +53,24 @@ Knowledge of your domain, tools, business, product.
 - **Intermediate**
   - You understand the technical concepts necessary to do your job effectively and are aware of industry trends in your domain.
   - You have a good sense of where to find answers, you are able to consult all documentation and knowledge sources. You are able to help yourself in many cases, you are less reliant on others.
-  - You have a good understanding of all tools Mews uses. You understand how they work, and the sorts of situations and problems for which they're useful. You're effective in using them.
+  - You have a good understanding of all tools Carvago uses. You understand how they work, and the sorts of situations and problems for which they're useful. You're effective in using them.
   - You have in depth knowledge of immediate domain you work on and tools you work with. And you have some knowledge of adjacent domains.
   - You understand why your work is important to the business and your users, and how it relates to your team's goals.
 - **Advanced**
   - Your specialized knowledge as well as your business and technical acumen contribute to success of projects.
   - You can utilize your business, technical and tooling knowledge to help others even outside of your team if needed. You are able to mentor individuals on specific topics and teach them.
   - You have strong, well-founded opinions about how to design solutions in your domain (design systems, build software, establish processes, introduce practices), but you're adaptable and open to new ideas.
-  - You closely follow industry trends relevant to your domain and you suggest how Mews could utilize them by e.g. opening RFC or sharing in relevant group.
+  - You closely follow industry trends relevant to your domain and you suggest how Carvago could utilize them by e.g. opening RFC or sharing in relevant group.
 - **Expert**
-  - Your expertise helps Mews R&D as a whole achieve and exceed its goals.
+  - Your expertise helps Carvago R&D as a whole achieve and exceed its goals.
   - You actively share your knowledge with wider audiences and regularly teach others about your domain.
-  - You thoughtfully and practically introduce concepts and technologies from the industry to solve important problems of Mews organization.
+  - You thoughtfully and practically introduce concepts and technologies from the industry to solve important problems of Carvago organization.
   - Work you have done or that is based on your expertise has consistently been successful. Your expertise helps projects and teams achieve and exceed their goals.
 - **Leading Expert**
-  - Your contributions to the field (e.g. talks, open source projects, research papers) have meaningful impact beyond Mews.
+  - Your contributions to the field (e.g. talks, open source projects, research papers) have meaningful impact beyond Carvago.
   - You use your expertise to come up with solutions to long-standing or seemingly intractable problems.
   - You contribute to the advancement of the wider industry in your domain.
-  - Your expertise helps Mews organization as a whole to solve critical business problems.
+  - Your expertise helps Carvago organization as a whole to solve critical business problems.
 
 ## 💡 Problem Solving
 
@@ -103,7 +103,7 @@ Analysis, creativity, breakdown of problems, architecture of solutions.
 - **Leading Expert**
   - You create architecture that gets near-unanimous acceptance and adoption from critical stakeholders.
   - You craft solutions that require little support or overhead and continue working for a long lifespan.
-  - You identify barriers that are slowing down teams and initiatives at Mews and create practical solutions, technologies, processes or tools to increase efficiency.
+  - You identify barriers that are slowing down teams and initiatives at Carvago and create practical solutions, technologies, processes or tools to increase efficiency.
   - You provide actionable direction to teams in the face of complex problems involving multiple stakeholders.
   - You create and publish new technologies or practices that solve industry-wide problems.
 
@@ -137,9 +137,9 @@ Collaboration with others, documentation, relationships with others.
   - You help disparate groups of people collaborate, identify common goals, and reach consensus. Your facilitation skills keep conversations productive and respectful.
   - You create spaces and channels that improve cross-team and inter-departmental communication.
 - **Leading Expert**
-  - You've made significant changes to how Mews handles documentation, facilitation, or collaboration that has improved the functioning of R&D.
+  - You've made significant changes to how Carvago handles documentation, facilitation, or collaboration that has improved the functioning of R&D.
   - You educate people on the topic of communication through mentoring, public speaking, blog posts etc.
-  - Your presence and example has a strong, positive influence on Mews's working environment.
+  - Your presence and example has a strong, positive influence on Carvago's working environment.
   - You proficiently communicate even externally with customers, partners and other stakeholders.
 
 ## 🎖️ Leadership
@@ -154,7 +154,7 @@ Responsibility, decision making, mentoring, setting an example.
 - **Intermediate**
   - You are able to motivate and lead more junior peers in your team.
   - You proactively act on the received feedback and put actionable steps in place to address it.
-  - You help create a safe environment for others by being respectful and aware of cultural differences. You embody the Mews values.
+  - You help create a safe environment for others by being respectful and aware of cultural differences. You embody the Carvago values.
   - You take on small roles that involve direct leadership (being a mentor, running a working group, small initiative or project).
   - You are generous with your time and make sure you are available for others. You are not perceived as always busy.
 - **Advanced**
@@ -165,12 +165,12 @@ Responsibility, decision making, mentoring, setting an example.
   - You turn ideas into opportunities which can be later turned into meaningful tracks of work and picked up by your teammates or other teams. And ultimately those ideas result in success.
   - You often take on roles involving direct leadership (for example, coordinating a long-term project or initiative).
 - **Expert**
-  - You have successfully and multiple times changed how Mews engineering functions to meet a critical need. Some examples include changing team structures, ways of working, hiring & onboarding processes etc.
+  - You have successfully and multiple times changed how Carvago engineering functions to meet a critical need. Some examples include changing team structures, ways of working, hiring & onboarding processes etc.
   - You have a large internal network across not just R&D and engage with other leaders to solve problems (technical, organizational, or social). You have developed strong credibility throughout the company.
   - You share knowledge and mentor people not just in your teams, but also for example in other departments even outside of R&D.
   - You have strong business understanding that helped you create an appealing vision for your teams and plan strategically for long-term.
 - **Leading Expert**
-  - You have successfully changed how Mews engineering functions in a way that has moved both Mews forward and established a best practice in the engineering industry.
-  - You are accountable for the success of Mews engineering with respect to attracting engineers and ensuring the strength of our engineering brand.
-  - You regularly represent Mews engineering publicly, e.g. via blog posts, giving talks.
-  - Your technical leadership is cited by many on the engineering team as a significantly positive aspect of working at Mews.
+  - You have successfully changed how Carvago engineering functions in a way that has moved both Carvago forward and established a best practice in the engineering industry.
+  - You are accountable for the success of Carvago engineering with respect to attracting engineers and ensuring the strength of our engineering brand.
+  - You regularly represent Carvago engineering publicly, e.g. via blog posts, giving talks.
+  - Your technical leadership is cited by many on the engineering team as a significantly positive aspect of working at Carvago.

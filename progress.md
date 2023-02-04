@@ -2,9 +2,9 @@
 
 A competency consists of individual skills that are organized into multiple levels. There are many **skills**, for example "You test your work following relevant examples." That is a skill within the delivery competency on the beginner level. For each skill you should asses whether you posses the skill using the following scores:
 
-- **0 - Nope** - Not at all, meaning that you don't possess the skill.
-- **1 - Somewhat** - Having the skill somewhat, but not fully there yet or not showing that consistently.
-- **2 - Yes** - Fully possessing the skill, being able to provide multiple examples demonstrating it consistently. Also the skill should be persistent, meaning that you should not stop practicing the skill when you achieve it.
+- **Nope** - Not at all, meaning that you don't possess the skill.
+- **Somewhat** - Having the skill somewhat, but not fully there yet or not showing that consistently.
+- **Yes** - Fully possessing the skill, being able to provide multiple examples demonstrating it consistently. Also the skill should be persistent, meaning that you should not stop practicing the skill when you achieve it.
 
 ## Levels
 
@@ -19,9 +19,9 @@ Each of the competencies has six levels of expertise, which can be summarized 
 
 The competencies are rather aspirational, so to get to level 3 is already big achievement. Levels above it require you in many cases to have impact past the standard boundaries of the competency and to affect whole organization or industry. It might take quite some time to reach a new level, so do not get discouraged, if you are not advancing every six months. For the sake of completeness, in order to reach a level, these are the three conditions necessary:
 
-1. You must reach the previous level (= you cannot skip levels).
-2. There should be no skill on the level with score 0 (= you cannot have a skill gap).
-3. Average score of skills on the level has to be greater than 1.7 (= you must fully demonstrate most of the skills).
+1. You must reach the previous level (you cannot skip levels).
+2. There should be no skill on the level with score "Nope" (you cannot have a skill gap).
+3. You can have one "Somewhat" score on the level (you must fully demonstrate most of the skills).
 
 ## Progress Calculation
 
