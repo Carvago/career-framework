@@ -1,4 +1,4 @@
-# Platform Team Lead
+# Team Lead
 
 ## Responsibilities
 
@@ -9,7 +9,7 @@
   - Acting as a hiring manager, recruiting members of the team.
   - Being the main point of contact representing the team in cross-organizational matters.
 - Product
-  - Understanding the high-level picture of the platform strategy, usage, products built on top of it and user needs.
+  - Understanding the high-level picture of the team strategy, usage, customer use cases and their needs.
   - Defining long term product vision and strategy for the team in alignment with company strategy.
   - Solutioning team initiatives, driving their delivery in an iterative manner and enuring the technical quality.
   - Driving design or influencing cross-team projects, cooperating with other team leads.
@@ -26,8 +26,8 @@ Different [competencies](../competencies.md) are important for different career 
 
 | Competency          | Importance |
 | ------------------- | ---------- |
-| 🚚 Delivery         | 20 %       |
-| 📚 Domain Expertise | 20 %       |
+| 🚚 Delivery         | 25 %       |
+| 📚 Domain Expertise | 15 %       |
 | 💡 Problem Solving  | 20 %       |
 | 💬 Communication    | 20 %       |
 | 🎖️ Leadership       | 20 %       |
