@@ -1,6 +1,6 @@
 # Competency Assessment
 
-The biggest part of preparation for a performance review is competency assessment, make sure you reserve at least 2 hours for that. The process differs based on whether you do it for the first time or whether it's a follow-up self assessment. Results of the competency self assessment are used on [performance review meeting](performance-review-meeting.md) as input to discussion with your manager. Make sure to ask your colleagues for feedback in advance before doing the competency assessment.
+The biggest part of preparation for a performance review is competency assessment, make sure you reserve at least 2 hours for that. The process differs based on whether you do it for the first time or whether it's a follow-up self assessment. Results of the competency self assessment are used on [performance review meeting](performance-review.md) as input to discussion with your manager. Make sure to ask your colleagues for feedback in advance before doing the competency assessment.
 
 ## First-time Self Assessment
 

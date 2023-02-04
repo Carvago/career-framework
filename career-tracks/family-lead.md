@@ -25,7 +25,7 @@
 
 ## Competencies
 
-Different [competencies](../competencies.md) are important for different career tracks. You can use the table below to see which competencies are important for this career track and how to [assess yourself](../performance-reviews/competency-assessment.md) to calculate your [progress](../progress.md).
+Different [competencies](../competencies.md) are important for different career tracks. You can use the table below to see which competencies are important for this career track and how to [assess yourself](../meetings/competency-assessment.md) to calculate your [progress](../progress.md).
 
 | Competency          | Importance |
 | ------------------- | ---------- |

@@ -1,6 +1,8 @@
 # Performance Review Meeting
 
-The main event in the whole performance review cycle is a performance review meeting with your manager. Before the meeting, make sure you have the [competency assessment](competency-assessment.md) completed, think about progress on your personal goals, think of possible new personal goals and also retrospect on your past successes and failures.
+Every 6 months, we do performance reviews of all members of the team. The point of this is to identify your areas of improvement, so that you and your manager can understand where to improve and even what particular practices you should be focusing on. And as a consecutive step, either discuss your progress on your personal development or set up new goals if you don't have any. Note that if you've done last performance review less than 3 months ago or if you are with us for less than 3 months, you should skip the performance review.
+
+Before the meeting, make sure you have the [competency assessment](competency-assessment.md) completed, think about progress on your personal goals, think of possible new personal goals and also retrospect on your past successes and failures.
 
 ## Agenda
 
@@ -18,7 +20,7 @@ The main topic of discussion will be your achieved skills and possibly some scor
 - If you tend to underestimate yourself, you might actually find out that your manager disagrees and your level is higher than you thought.
 - If you overestimated yourself in some practices, you'll probably get lower score based on the discussion, which means there are still areas where you can improve.
 
-After you are both aligned, identify some opportunities for improvement. Focus mainly on the orange cells in the level you reached (so that you cover all the practices in your level fully, that's really important). And also pick a few practices from the level above that you'd like to work on. In the end, this is a longer-term process (measured in years), so do not get discouraged if you don't move as fast as you'd like to. One practice to improve per competency is more than enough. These selected skills are great opportunities for [personal goals](../performance-catchups/personal-goals.md). The outcome of your competency assessment should be table similar to the one below which identifies levels within your competencies based on your skills and your overall progress in your career track.
+After you are both aligned, identify some opportunities for improvement. Focus mainly on the orange cells in the level you reached (so that you cover all the practices in your level fully, that's really important). And also pick a few practices from the level above that you'd like to work on. In the end, this is a longer-term process (measured in years), so do not get discouraged if you don't move as fast as you'd like to. One practice to improve per competency is more than enough. These selected skills are great opportunities for [personal goals](../personal-goals.md). The outcome of your competency assessment should be table similar to the one below which identifies levels within your competencies based on your skills and your overall progress in your career track.
 
 <img height="300px" src="https://user-images.githubusercontent.com/435787/131229027-1b1b6fa6-2b61-446f-9427-1f882b6b193b.png"/>
 
