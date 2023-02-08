@@ -9,12 +9,14 @@ It is supposed to be aspirational, so if you're not sure, put in lower score or 
 Planning, prioritization, predictability, continuous delivery, testing and monitoring.
 
 - **Beginner**
+
   - You understand scope of work before taking on tasks.
   - You verify your output by self-reviewing, self-testing in order to minimize issues found by others.
   - You follow-up on your work after it's released and quickly address issues as they arise.
   - You collect and incorporate feedback (solutioning before start, code reviews, gathering buy-in) to ship your work.
   - You're comfortable using the tools relevant to your domain, and your development environment enables you to be productive.
   - You ship complete solutions, but release them in small, safe patches.
+
 - **Intermediate**
   - You estimate accurate timelines for tasks and deliver work at a steady, predictable pace to hit your deadlines.
   - You effectively use a variety of testing methods, verification practices and monitoring tools to ensure the quality and production readiness of your work before and after release.
@@ -25,7 +27,7 @@ Planning, prioritization, predictability, continuous delivery, testing and monit
 - **Advanced**
   - You collaboratively roadmap large tracks of work with reliable estimates of time, effort, and risk, and you help ensure your team can hit deadlines.
   - You communicate with teammates, collaborators, and stakeholders, and you take responsibility for your plans, both when they're on track and when they aren't.
-  - You ensure quality of your work and minimize potential impact if things go wrong. You ensure all non-functional requirements are met as well (security, performance, resiliency). You actively utilize practices like feature flags, observability tools, extended testing using relevant product data and use cases etc.
+  - You ensure quality of your work and minimize potential impact if things go wrong. You ensure all non-functional requirements are met (security, performance, resiliency). You actively utilize practices like feature flags, observability tools, extended testing using relevant product data and use cases.
   - You deliver initiatives end to end, including post-release monitoring. You take ownership of the initiative and action all issues in timely manner.
   - You have awareness of other initiatives in related teams, how they impact your work and how your work may impact those. You follow plans and progress in those teams in order to deliver your initiatives smoothly.
   - You're able to identify when best practices and processes are negatively impacting your delivery. You are able to resolve those cases by either proposing changes to the best practices or carefully bypassing them.
@@ -34,7 +36,7 @@ Planning, prioritization, predictability, continuous delivery, testing and monit
   - You introduce new practices to ensure the quality, production readiness, and continued health of complex systems.
   - You incorporate awareness and understanding of work happening in Carvago overall to minimize surprises and make projects more likely to succeed.
   - You use variety of product and project management techniques depending on the context: You are more agile when risk is low; You plan things more thoroughly when the risk is high.
-  - You utilize Carvago metrics in a thoughtful manner to reflect on our work and to help others overcome obstacles in their delivery.
+  - You utilize metrics in a thoughtful manner to reflect on our work and to help others overcome obstacles in their delivery.
 - **Leading Expert**
   - You remove widely-felt barriers to productivity, finding ways to make the entire engineering organization more effective at shipping products and infrastructure.
   - You create tools to help engineers deliver, test, and monitor software that can be used across the industry.
@@ -48,7 +50,7 @@ Knowledge of your domain, tools, business, product.
 - **Beginner**
   - You ask questions to support your own continuous learning.
   - You learn from your own research and from those around you.
-  - You seize opportunities to increase your knowledge. You join workshops, guild meetings, you consume online resources and actively participate in other learning sources.
+  - You seize opportunities to increase your knowledge. You join workshops, meetings, you consume online resources and actively participate in other learning sources.
   - You understand basics of tools which are relevant to your work and how to use them.
 - **Intermediate**
   - You understand the technical concepts necessary to do your job effectively and are aware of industry trends in your domain.
@@ -67,7 +69,7 @@ Knowledge of your domain, tools, business, product.
   - You thoughtfully and practically introduce concepts and technologies from the industry to solve important problems of Carvago organization.
   - Work you have done or that is based on your expertise has consistently been successful. Your expertise helps projects and teams achieve and exceed their goals.
 - **Leading Expert**
-  - Your contributions to the field (e.g. talks, open source projects, research papers) have meaningful impact beyond Carvago.
+  - Your expertise helps Carvago R&D as a whole achieve and exceed its goals.
   - You use your expertise to come up with solutions to long-standing or seemingly intractable problems.
   - You contribute to the advancement of the wider industry in your domain.
   - Your expertise helps Carvago organization as a whole to solve critical business problems.
@@ -88,11 +90,11 @@ Analysis, creativity, breakdown of problems, architecture of solutions.
   - You are able to break down large problems into smaller, more manageable ones that you can then solve one by one.
   - You have strong debugging and problem solving skills, allowing you to solve urgent problems, e.g. dealing with a blocker on production.
 - **Advanced**
-  - You are able to come up with iterative solutions that would lead to continuous delivery of value (aka slicing).
+  - You are able to come up with iterative solutions that would lead to continuous delivery of value to customers (aka user story slicing).
   - Your are able to anticipate problems and design solutions in a way that they reduce failure scenarios. Your solutions are future-proof and resilient against mistakes by others. You are able to identify edge cases early on.
   - You are able to zoom out, utilize data, technical strategy, product strategy, company strategy and other relevant context to inform the decisions you make. Your solutions are built for the long term and in alignment with the overall direction.
   - You reflect on solutions you have created, measure their impact, retrospect on how they were delivered and use that information to ideate and optimize future work.
-  - You are able to facilitate problem solving situations, identify coupled issuses, decouple them and help the group to reach consensus.
+  - You are able to facilitate problem solving situations.
   - You are able to identify recurring problems and find root causes. You are able to solve the problems in more systematical way, than just ad-hoc solutions.
 - **Expert**
   - You are guided by your experience to identify and solve issues with ease even when they are not in your domain, e.g. in other department you're collaborating with.
@@ -112,7 +114,7 @@ Analysis, creativity, breakdown of problems, architecture of solutions.
 Collaboration with others, documentation, relationships with others.
 
 - **Beginner**
-  - You are able to clearly communicate in English and articulate questions that others will understand.
+  - You are able to clearly communicate and articulate questions that others will understand.
   - You collaborate with team members in various roles (e.g. other engineers, PMs, designers) in regular manner.
   - You document the important learnings, practices and solutions in a way that helps others when they encounter similar issues.
   - You actively participate in internal meetings of your team and not just passively listen.
@@ -139,7 +141,7 @@ Collaboration with others, documentation, relationships with others.
 - **Leading Expert**
   - You've made significant changes to how Carvago handles documentation, facilitation, or collaboration that has improved the functioning of R&D.
   - You educate people on the topic of communication through mentoring, public speaking, blog posts etc.
-  - Your presence and example has a strong, positive influence on Carvago's working environment.
+  - Your presence and example has a strong, positive influence on Carvago working environment.
   - You proficiently communicate even externally with customers, partners and other stakeholders.
 
 ## 🎖️ Leadership
