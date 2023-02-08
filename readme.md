@@ -32,9 +32,7 @@ Everybody in the tech team has a career track which impacts several things. Your
 
 Individual career tracks define the responsibilities and competencies you should possess in order to be successful in your role. They also define the salary bounds for each job title. The career tracks are:
 
-- [Division Lead](career-tracks/division-lead.md) - VP Engineering
-- [Family Lead](career-tracks/family-lead.md) - Director of Engineering
-- [Team Lead](career-tracks/team-lead.md) - Enginnering Manager
+- [Engineering Manager](career-tracks/engineering-manager.md) - Manager / Director of Engineering
 - [Technical Leader](career-tracks/technical-leader.md) - Staff / Principal Enginner
 - [Engineer](career-tracks/engineer.md) - Junior / Senior Enginner
 
