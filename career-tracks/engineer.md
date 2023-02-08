@@ -36,9 +36,9 @@ The last piece of the puzzle is progressing within career tracks. Career progres
 
 | Job Title                       | Min Progress | Max Progress | Min Salary | Next Salary |
 | ------------------------------- | ------------ | ------------ | ---------- | ----------- |
-| Junior {Discriminator} Engineer | 0.00         | 2.20         | 0          | 0           |
-| {Discriminator} Engineer        | 2.20         | 3.70         | 0          | 0           |
-| Senior {Discriminator} Engineer | 3.70         | 5.00         | 0          | 0           |
+| Junior {Discriminator} Engineer | 0.00         | 1.60         | 0          | 0           |
+| {Discriminator} Engineer        | 1.60         | 3.10         | 0          | 0           |
+| Senior {Discriminator} Engineer | 3.10         | 5.00         | 0          | 0           |
 
 ## Compensation
 
