@@ -18,7 +18,7 @@ To support such growth, we implemented this career framework. It defines compete
 
 Our career framework is built bottom-up, which means it starts with very specific low-level skills which you can acquire. Having those skills advances you in different [competencies](competencies.md) where you level-up when you acquire new skills. Those competencies and levels reached there determine your overall career [progress](progress.md) within your [career track](#career-tracks). The career track is quite specific already and together with the progress, it determines your [job title](#tracks-and-job-titles), salary bounds, [compensation](compensation.md) and also responsibilities.
 
-In order to determine all of this and **ensure that everyone progresses forward**, we do [performance reviews](meetings/performance-review.md) every six months. During a performance review, your manager will hold a general career discussion with you, you will [assess your competencies](meetings/competency-assessment.md) with the manager and talk about your successes, failures and opportunities for improvement. To make sure we dedicate enough attention continuously to your [personal goals](personal-goals.md), there are also periodic [performance catchups](meetings/performance-catchup.md) where your manager will check up on your goals and help you in any way possible to **achieve the goals**. If you complete some of your goals, this is the event where new goals will be established.
+In order to determine all of this and **ensure that everyone progresses forward**, we do [performance reviews](meetings/performance-review.md) every six months. During a performance review, your manager will hold a general career discussion with you, you will [assess your competencies](meetings/competency-assessment.md) with the manager and talk about your successes, failures and opportunities for improvement. To make sure we dedicate enough attention continuously to your [planned goals](performance-planning.md), there are also periodic [performance catchups](meetings/performance-catchup.md) where your manager will check up on your goals and help you in any way possible to **achieve the goals**. If you complete some of your goals, this is the event where new goals will be established.
 
 # Career Ladder
 
@@ -41,7 +41,7 @@ Individual career tracks define the responsibilities and competencies you should
 - [Competencies](competencies.md)
 - [Progress](progress.md)
 - [Compensation](compensation.md)
-- [Personal Goals](personal-goals.md)
+- [Performance Planning](performance-planning.md)
 - [Meetings](meetings/readme.md)
   - [Performance Reviews](meetings/performance-review.md)
     - [Competency Assessment](meetings/competency-assessment.md)

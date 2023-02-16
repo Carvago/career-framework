@@ -2,12 +2,10 @@
 
 There are several important events during the year that are focused on career and personal development. You'll be notified about them well in advance:
 
-- **February** - [Performance Catchup](performance-catchup.md)
-- **April** - [Performance Catchup](performance-catchup.md)
-- **June** - [Performance Review](performance-review.md)
-- **August** - [Performance Catchup](performance-catchup.md)
-- **October** - [Performance Catchup](performance-catchup.md)
-- **December** - [Performance Review](performance-review.md)
+- **May** - [Performance Review](performance-review.md)
+- **June** - [Performance Planning](performance-planning.md)
+- **November** - [Performance Review](performance-review.md)
+- **December** - [Performance Planning](performance-planning.md)
 
 ## Timeline
 
