@@ -29,7 +29,7 @@ Different [competencies](../competencies.md) are important for different career 
 
 ## Job Titles
 
-The last piece of the puzzle is progressing within career tracks. Career progress is a continuous number between 0 and 5, however we need to establish a finite number of job titles. That is why each career track is subdivided into usually 3 buckets. **Based on your progress, you can look up your job title and salary bounds within the table below.** Job titles contain `{Discriminator}` which is a dynamic placeholder that can be replaced with various values, most common ones are "Backend", "Frontend" and "Mobile".
+The last piece of the puzzle is progressing within career tracks. Career progress is a continuous number between 0 and 5, however we need to establish a finite number of job titles. That is why each career track is subdivided into usually 3 buckets. **Based on your progress, you can look up your job title and salary bounds within the table below.** However,carreer progress is only a precondition to that grade. Other aspects of the job are considered for a promotion to happen.Job titles contain `{Discriminator}` which is a dynamic placeholder that can be replaced with various values, most common ones are "Backend", "Frontend" and "Mobile".
 
 - **Job Title** - Job title corresponding to the progress.
 - **Min Progress** - Minimum [progress](../progress.md) required for the job title. Closed lower bound.
@@ -39,9 +39,9 @@ The last piece of the puzzle is progressing within career tracks. Career progres
 
 | Job Title                             | Min Progress | Max Progress | Min Salary | Next Salary |
 | ------------------------------------- | ------------ | ------------ | ---------- | ----------- |
-| Staff {Discriminator} Engineer        | 0.00         | 3.10         | 0          | 0           |
-| Senior Staff {Discriminator} Engineer | 3.10         | 4.20         | 0          | 0           |
-| Principal {Discriminator} Engineer    | 4.20         | 5.00         | 0          | 0           |
+| Staff {Discriminator} Engineer        | 1.00         | 3.70         | 0          | 0           |
+| Senior Staff {Discriminator} Engineer | 3.70         | 4.40         | 0          | 0           |
+| Principal {Discriminator} Engineer    | 4.40         | 5.00         | 0          | 0           |
 
 ## Compensation
 
