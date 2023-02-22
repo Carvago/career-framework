@@ -1,4 +1,4 @@
-# Performance Planning
+# Career Planning
 
 When performing the [competency assessment](competency-assessment.md), you will naturally identify some opportunities and get feedback during the review from your manager on your [performance review](meetings/performance-review.md). But how to make sure you progress until next time and improve on those? That's where personal goals step in. In order to prevent vague and unactionable goals, we use **SMART goals**. SMART is an acronym for 5 attributes that are desirable when setting the goal. You can read more about them in for example in the [Atlassian article](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals).
 

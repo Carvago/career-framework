@@ -18,7 +18,7 @@ To support such growth, we implemented this career framework. It defines compete
 
 Our career framework is built bottom-up, which means it starts with very specific low-level skills which you can acquire. Having those skills advances you in different [competencies](competencies.md) where you level-up when you acquire new skills. Those competencies and levels reached there determine your overall career [progress](progress.md) within your [career track](#career-tracks). The career track is quite specific already and together with the progress, it determines your [job title](#tracks-and-job-titles), salary bounds, [compensation](compensation.md) and also responsibilities.
 
-In order to determine all of this and **ensure that everyone progresses forward**, we do [performance reviews](meetings/performance-review.md) every six months. During a performance review, your manager will hold a general career discussion with you, you will [assess your competencies](meetings/competency-assessment.md) with the manager and talk about your successes, failures and opportunities for improvement. To make sure we dedicate enough attention continuously to your [planned goals](performance-planning.md), there are also periodic [performance catchups](meetings/performance-catchup.md) where your manager will check up on your goals and help you in any way possible to **achieve the goals**. If you complete some of your goals, this is the event where new goals will be established.
+In order to determine all of this and **ensure that everyone progresses forward**, we do [performance reviews](meetings/performance-review.md) every six months. During a performance review, your manager will hold a general career discussion with you, you will [assess your competencies](meetings/competency-assessment.md) with the manager and talk about your successes, failures and opportunities for improvement. To make sure we dedicate enough attention continuously to your [planned goals](career-planning.md), there are also periodic [career planning catchups](meetings/career-planning-catchup.md) where your manager will check up on your goals and help you in any way possible to **achieve the goals**. If you complete some of your goals, this is the event where new goals will be established.
 
 # Career Ladder
 
@@ -26,7 +26,7 @@ There are multiple different roles and **career tracks** you can pursue, the m
 
 ![image](assets/career-progression.jpg)
 
-Everybody in the tech team has a career track which impacts several things. Your career track defines which competencies you should focus on, which skills and goals are important for your development and what are your **responsibilities** (defined on detail page of each career track). It also defines what should be your minimal compensation based on your progress. Or vice versa, based on your competencies, you might discover which career track is the most fitting for you.
+Everybody in the tech team has a career track which impacts several things. Your career track defines which competencies you should focus on, which skills and goals are important for your development and what are your **responsibilities** (defined on detail page of each career track).
 
 # Career Tracks
 
@@ -36,19 +36,26 @@ Individual career tracks define the responsibilities and competencies you should
 - [Technical Leader](career-tracks/technical-leader.md) - Staff / Principal Enginner
 - [Engineer](career-tracks/engineer.md) - Junior / Senior Enginner
 
-# Contents
+# Progress
 
-- [Competencies](competencies.md)
+Your progress defines what should be your minimal and maximal compensation.
+
 - [Progress](progress.md)
+- [Competencies](competencies.md)
 - [Compensation](compensation.md)
-- [Performance Planning](performance-planning.md)
+
+# Meetings
+
+There are several important events during the year that are focused on career and personal development.
+
 - [Meetings](meetings/readme.md)
   - [Performance Reviews](meetings/performance-review.md)
     - [Competency Assessment](meetings/competency-assessment.md)
     - [Managers](meetings/managers/readme.md)
       - [Calibration](meetings/managers/calibration.md)
       - [Retrospective](meetings/managers/retrospective.md)
-  - [Performance Catchups](meetings/performance-catchup.md)
+  - [Career Planning](meetings/career-planning.md)
+  - [Career Planning Catchups](meetings/career-planning-catchup.md)
 
 ---
 

@@ -3,9 +3,9 @@
 There are several important events during the year that are focused on career and personal development. You'll be notified about them well in advance:
 
 - **May** - [Performance Review](performance-review.md)
-- **June** - [Performance Planning](performance-planning.md)
+- **June** - [Career Planning](career-planning.md)
 - **November** - [Performance Review](performance-review.md)
-- **December** - [Performance Planning](performance-planning.md)
+- **December** - [Career Planning](career-planning.md)
 
 ## Timeline
 
