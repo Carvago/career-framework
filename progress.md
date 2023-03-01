@@ -21,7 +21,7 @@ The competencies are rather aspirational, so to get to level 3 is already big ac
 
 1. You must reach the previous level (you cannot skip levels).
 2. There should be no skill on the level with score "Nope" (you cannot have a skill gap).
-3. You can have one "Somewhat" score on the level (you must fully demonstrate most of the skills).
+3. You can have two "Somewhat" scores on the level (you must fully demonstrate most of the skills).
 
 ## Progress Calculation
 
