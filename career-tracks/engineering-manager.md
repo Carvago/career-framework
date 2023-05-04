@@ -9,6 +9,7 @@
   - Acting as a hiring manager, recruiting especially senior members of the team.
   - Managing financial planning, spending and selection of service providers for the area.
   - Being the main point of contact representing the team in cross-organizational matters.
+  - Career Planning, promotions, coaching, 1on1s
 - Product
   - Understanding the high-level picture of the strategy, usage, customer use cases and their needs.
   - Contributing to long term vision and strategy in alignment with company strategy.
@@ -22,6 +23,7 @@
   - Contributing to culture of technical excellence and continuous improvement.
   - Being ambassador of the team, both internally by knowledge sharing and externally by publishing, talking etc.
   - Setting the bar for content, growing public reputation and defining public image of the team as highly respected.
+  - Improving team productivity through metrics
 
 ## Competencies
 
