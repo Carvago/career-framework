@@ -6,7 +6,7 @@ The biggest part of preparation for a performance review is competency assessmen
 
 We use Excel sheet to track your competencies and progress. Every person should have their own private copy so you don't need to be worried that some more sensitive personal information or comments would leak out. Check the [competency overview](../competencies.md) to learn more about details of the competencies.
 
-1. **Download** the [competencies template document](https://github.com/Carvago/career-framework/blob/main/competencies-template.xlsx?raw=true) and store it to your Google Drive.
+1. **Download** the [competencies template document](https://github.com/Carvago/career-framework/blob/main/competencies-template.xlsx) and store it to your Google Drive.
 1. **Fill** in your scores (either Nope, Somewhat or Yes) for all the skills (cells of the sheet) in each level (column) for each competency (sheet). Please follow the [score definitions](../progress.md#progress) in order to ensure, that we have consistent scoring within the department. After you're done, it may look something like the picture below. Level achievement is calculated automatically, do not fill it in.
 1. **Share** the document with your manager so that they can see your scores, comments, comment on their own etc.
 
