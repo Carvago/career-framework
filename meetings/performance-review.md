@@ -1,21 +1,21 @@
 # Performance Review Meeting
 
-Every 6 months, we do performance reviews of all members of the team. The point of this is to identify your areas of improvement, so that you and your manager can understand where to improve and even what particular practices you should be focusing on. And as a consecutive step, either discuss your progress on your personal development or set up new goals if you don't have any. Note that if you've done last performance review less than 3 months ago or if you are with us for less than 3 months, you should skip the performance review.
+Every 6 months, we do performance reviews. The point of this is to identify your areas of improvement, so that you and your manager can understand where to improve. And as a consecutive step, either discuss your progress on your personal development or set up new goals.
 
-Before the meeting, make sure you have the [competency assessment](competency-assessment.md) completed, think about progress on your personal goals, think of possible new personal goals and also retrospect on your past successes and failures.
+Before the meeting, make sure you have the [assessment](assessment.md) completed, think about progress on your personal goals, think of possible new personal goals and also retrospect on your past successes and failures.
 
 ## Agenda
 
-The performance review meeting usually takes between 1 and 2 hours, so reserve time for that as well. Plus there are some follow-ups afterwards so in total, to be on the safe side, expect around 3 hours of time investment. Your manager will send you invite to the event, so plan your activities around that. The meeting itself consists of following phases:
+The performance review meeting usually takes 2 hours. Plus there are some follow-ups afterwards. To be on the safe side, expect around 3 hours of time investment. The meeting itself consists of following phases:
 
 1. **Introduction** - Look back at the previous 6 months, talk about what went well and what went wrong.
-1. **Competency Alignment** - Together with your manager align on your competencies and skills.
-1. **Personal Goals** - Talk about the progress of your personal goals and possible opportunities for new goals with your manager. If you don't have any personal goals currently, this is a great time to put them in place.
+1. **Skills Assessment** - Together with your manager align on your competencies and skills to get your score.
+1. **Personal Goals** - Talk about the progress of your personal goals and possible opportunities for new goals with your manager. This is a great time to set up new goals.
 1. **Open Discussion** - Talk about your happiness in the company, problems, struggles, suggestions. Also you can **share feedback** with your manager.
 
-## Competency Alignment
+## Skills Assessment
 
-The main topic of discussion will be your achieved skills and possibly some scores might change as outcome of the discussions. Focus on the practices in the level you reached, one level above (advanced) and also focus on the practices where your score changed from the last performance review. Two things might actually happen, depending on your nature:
+The main topic of discussion will be your achieved skills and possibly some scores might change as outcome of the discussions. Focus on the practices in the level you reached, one level above (senior) and also focus on the practices where your score changed from the last performance review. Two things might actually happen, depending on your nature:
 
 - If you tend to underestimate yourself, you might actually find out that your manager disagrees and your level is higher than you thought.
 - If you overestimated yourself in some practices, you'll probably get lower score based on the discussion, which means there are still areas where you can improve.

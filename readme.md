@@ -4,62 +4,64 @@
     </a>
 </div>
 
-# Announcement
-
-This is still a work in progress. We are currently working on the first version of this career framework and will be rolling it out soon 👷‍♂️
-
 # Motivation
 
-Our mission at Carvago is not only to deliver exceptional products to others, we also want to establish a great environment inside the company where people can grow professionally and personally.
+Our mission at Carvago is not only to deliver exceptional products to others, we also want to establish a great environment inside the company where people can grow professionally.
 
-To support such growth, we implemented this career framework. It defines competencies for specific career tracks, which helps our employees understand where they are in their careers and where they can advance if they choose to.
+This career framework helps our employees understand where they are in their careers and where they can advance if they choose to.
 
 # How it works
 
-Our career framework is built bottom-up, which means it starts with very specific low-level skills which you can acquire. Having those skills advances you in different [competencies](competencies.md) where you level-up when you acquire new skills. Those competencies and levels reached there determine your overall career [progress](progress.md) within your [career track](#career-tracks). The career track is quite specific already and together with the progress, it determines your [job title](#tracks-and-job-titles), salary bounds, [compensation](compensation.md) and also responsibilities.
+Our career framework is built bottom-up, which means it starts with very specific low-level skills which you can acquire. Having those skills advances you in different [competencies](score.md#competencies). Those competencies and levels reached there determine your overall [score](score.md) within your [career track](#career-tracks). The career together with your score determines your [job title](#career-ladder), [salary](salary.md) and also responsibilities.
 
-In order to determine all of this and **ensure that everyone progresses forward**, we do [performance reviews](meetings/performance-review.md) every six months. During a performance review, your manager will hold a general career discussion with you, you will [assess your competencies](meetings/competency-assessment.md) with the manager and talk about your successes, failures and opportunities for improvement. To make sure we dedicate enough attention continuously to your [planned goals](career-planning.md), there are also periodic [career planning catchups](meetings/career-planning-catchup.md) where your manager will check up on your goals and help you in any way possible to **achieve the goals**. If you complete some of your goals, this is the event where new goals will be established.
+In order to determine all of this and ensure that everyone progresses forward, we do [performance reviews](meetings/performance-review.md) every six months. During a performance review, your manager will hold a general career discussion with you, you will [assess your competencies](meetings/assessment.md) with the manager and talk about your successes, failures and opportunities for improvement. To make sure we dedicate enough attention continuously to your [planned goals](career-planning.md), there are also periodic [performance catchups](meetings/performance-catchup.md) where your manager will check up on your goals and help you in any way possible to **achieve the goals**.
 
 # Career Ladder
 
-There are multiple different roles and **career tracks** you can pursue, the main distinction is into individual contributor and technical or managerial tracks. The main difference obviously is that a manager manages people which by default increases their responsibility. However this does not mean, that in order to progress in your career, you need to become a manager. This is a choice and an **expert individual contributor is as valuable as a senior manager**. We try to reflect this in the compensation as well. Among individual contributor career tracks, you are able to switch pretty much freely. In order to get to one of the management or leadership career tracks, you need to be assigned that role, you cannot choose this on your own :)
+There are multiple different **career tracks** you can pursue. The main distinction is into individual contributor and technical or managerial tracks. The difference is that a manager manages people which increases their responsibility. However this does not mean, that in order to progress in your career, you need to become a manager. This is a choice and an expert individual contributor is as valuable as a senior manager. In order to get to one of the leadership tracks, you need to be assigned that role, you cannot choose this on your own.
 
 ![image](assets/career-progression.jpg)
 
-Everybody in the tech team has a career track which impacts several things. Your career track defines which competencies you should focus on, which skills and goals are important for your development and what are your **responsibilities** (defined on detail page of each career track).
-
 # Career Tracks
 
-Individual career tracks define the responsibilities and competencies you should possess in order to be successful in your role. They also define the salary bounds for each job title. The career tracks are:
+Individual career tracks define the responsibilities and skills you should possess in order to be successful in your role. They also define the salary bounds for each job title.
 
-- [Engineering Manager](career-tracks/engineering-manager.md) - Manager / Director of Engineering
-- [Technical Leader](career-tracks/technical-leader.md) - Staff / Principal Enginner
-- [Engineer](career-tracks/engineer.md) - Junior / Senior Enginner
+- [Frontend Engineer](career-tracks/frontend-engineer.md)
 
-# Progress
+# Score
 
-Your progress defines what should be your minimal and maximal compensation.
+Your score defines what should be your job title and therefore minimal and maximal salary.
 
-- [Progress](progress.md)
-- [Competencies](competencies.md)
-- [Compensation](compensation.md)
+- [Score](score.md)
+- [Salary](salary.md)
 
 # Meetings
 
 There are several important events during the year that are focused on career and personal development.
 
-- [Meetings](meetings/readme.md)
-  - [Performance Reviews](meetings/performance-review.md)
-    - [Competency Assessment](meetings/competency-assessment.md)
-    - [Managers](meetings/managers/readme.md)
-      - [Calibration](meetings/managers/calibration.md)
-      - [Retrospective](meetings/managers/retrospective.md)
-  - [Career Planning](meetings/career-planning.md)
-  - [Career Planning Catchups](meetings/career-planning-catchup.md)
+### Performance Review
 
----
+There are two performance reviews during the year, one in May and one in November. During the performance review, you will discuss your progress, competencies and salary.
 
-## Acknowledgement
+- **May** - [Performance Review](meetings/performance-review.md)
+
+- **November** - [Performance Review](meetings/performance-review.md)
+
+### Career Planning
+
+Career planning meeting should follow the performance review (twice a year). During the career planning meeting, you will set your goals for the next period.
+
+- **June** - [Career Planning](meetings/career-planning.md)
+
+- **December** - [Career Planning](meetings/career-planning.md)
+
+### Performance Catchup
+
+In order to ensure incremental progress on your goals, possible steering and adjustments, you should have a catchup **each month**.
+
+- **Each month** - [Performance Catchup](meetings/performance-catchup.md)
+
+# Acknowledgement
 
 This package was originally forked from [Mews](https://mews.com), as it was a huge inspiration to us. Thank you!
 

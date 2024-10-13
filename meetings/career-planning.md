@@ -1,10 +1,6 @@
 # Career Planning
 
-When performing the [competency assessment](competency-assessment.md), you will naturally identify some opportunities and get feedback during the review from your manager on your [performance review](meetings/performance-review.md). But how to make sure you progress until next time and improve on those? That's where personal goals step in. In order to prevent vague and unactionable goals, we use **SMART goals**. SMART is an acronym for 5 attributes that are desirable when setting the goal. You can read more about them in for example in the [Atlassian article](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals).
-
-If you are not able to fulfill some of these attributes 100%, don't worry. It is just a guideline to help you design your goals, but you don't have to stick to it to the letter. For example, if the goal is not measurable, make it at least as measurable as it can be, but don't overengineer it just for the sake of it. It should help you, not get in your way.
-
-Note that the period does not have to align with performance review cadence. You can have multiple goals in 6 months as well as 1 goal spanning a year.
+When performing the [competency assessment](assessment.md), you will naturally identify some opportunities and get feedback during the review from your manager on your [performance review](meetings/performance-review.md). But how to make sure you progress until next time and improve on those? That's where personal goals step in. In order to prevent vague and unactionable goals, we use **SMART goals**. SMART is an acronym for 5 attributes that are desirable when setting the goal.
 
 ## Example
 
@@ -44,11 +40,9 @@ The purpose of the goal is to help you improve. Therefore, avoid setting the com
   - Improving **soft skills**:
     - Priorities and time management.
     - Communication, giving feedback.
-    - Leadership associate program.
+    - Technicl leadership.
     - Get better at gathering and sharing the knowledge.
     - Mentor others.
   - **Learn** some domain, being it business or technical one (e.g. learning how payments work or advanced concepts of functional programming).
   - Be **responsible** for delivery of some epic end-to-end (e.g. deliver some feature from solutioning to production, including the monitoring phase).
   - **Sharing knowledge**, contributing to public awareness (e.g. internal meetings, blogposts, meetups, panel talks, podcasts).
-
-Please note that you don't have to devote extra time to your goals, we are not asking you to work over the weekend on them. Most of the progress should be on your job. If you have some mentoring sessions supporting you or resources you would like to go through, make time explicitly in sprint if that works for you. Last but not least, avoid overwhelming yourslef. If you are studying at university or dealing with some personal situation, you might want to relax these goals to match your time possibilities.

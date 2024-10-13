@@ -1,4 +1,4 @@
-# Career Planning Catchups
+# Performance Catchups
 
 Since 6 months is a long time, the follow-up from the previous performance review can be easily forgotten. In order to ensure incremental progress on your goals, possible steering and adjustments, you should have a catchup each month on your 1on1s.
 
