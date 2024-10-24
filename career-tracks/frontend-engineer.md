@@ -2,19 +2,8 @@
 
 ## How to find your job title
 
-- Do a [assessment](../meetings/assessment.md) to get your score.
-- Find your job title and salary bounds in the table below based on your score.
-
-## Competencies
-
-Different [competencies](../score.md#competencies) are important for different career tracks. You can use the table below to see which competencies are important for this career track and how to [assess yourself](../meetings/assessment.md) to calculate your [score](../score.md).
-
-| Competency       | Importance |
-| ---------------- | ---------- |
-| 🚚 Delivery      | 30 %       |
-| 📚 Know-how      | 55 %       |
-| 💬 Communication | 10 %       |
-| 🎖️ Leadership    | 5 %        |
+1. Do a [assessment](../assessment.md) to get your [score](../score.md).
+2. Find your job title and salary band in the table below based on your score.
 
 ## Job Titles
 

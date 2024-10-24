@@ -2,15 +2,13 @@
 
 Score is a number between 0 and 4 that represents your overall progress in your career. It is calculated from the seniority levels you have reached in different competencies. The score is used to determine your job title and salary.
 
-To get your score, you need to evaluate your skills. Skills are organized into seniority leves within competencies. All the skills are part of [assessment template document](https://github.com/Carvago/career-framework/blob/main/assessment-template.xlsx).
+To get your score, you need to evaluate your skills. Skills are organized into seniority leves within competencies. All the skills are part of [assessment template document](./assessment.md#assessment-template-documents).
 
 ![image](./assets/assessment-template-example.png)
 
 ## Competencies
 
 We have 4 competencies, in which you can acquire new skills and achieve new levels. The levels achieved in different competencies are used to determine your overall score.
-
-The competency model is designed primarily for engineers, but with a little bit of stretch and interpretation, it is usable for all divisions and roles within technical department.
 
 | Competency       | Description                                                                             |
 | ---------------- | --------------------------------------------------------------------------------------- |
@@ -38,7 +36,7 @@ Do not get discouraged, if you are not advancing every six months. To reach a le
 
 ## Skills
 
-A competency consists of individual skills that are organized into multiple levels. There are many **skills**. For each skill you should asses whether you posses the skill using the following scores:
+A competency consists of individual skills that are organized into multiple seniority levels. There are many **skills**. For each skill you should asses whether you posses the skill using the following scores:
 
 - **Nope** - Not at all, meaning that you don't possess the skill.
 - **Somewhat** - Having the skill somewhat, but not fully there yet or not showing that consistently.
@@ -46,11 +44,11 @@ A competency consists of individual skills that are organized into multiple leve
 
 ## Score Calculation
 
-In order to determine your score and how far you are in your career track, you take [levels](#levels) of each [competency](#competencies) (number between 0 and 4) and apply weighted average on them. This way, you get to single number, again between 0 and 4, which represents your overall **score**. It can be interpreted as a measure of seniority, with 0 being a novice and 4 being an expert leader.
+The score is calculated automatically directly in the [assessment template document](./assessment.md#assessment-template-documents). However, in order to determine your score, you take [levels](#levels) of each [competency](#competencies) (number between 0 and 4) and apply weighted average on them. This way, you get to single number, again between 0 and 4, which represents your overall **score**. It can be interpreted as a measure of seniority, with 0 being a novice and 4 being an expert.
 
 ### Example
 
-As an example, let's consider a standard engineer career track, whose weights might look something like this (this is just an example, the actual weights might differ):
+As an example, let's consider a standard engineer career track, whose weights might look something like this:
 
 - **30%** 🚚 Delivery
 - **55%** 📚 Know-how

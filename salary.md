@@ -1,6 +1,6 @@
 # Salary
 
-We define salary bounds based on your [career track](readme.md#career-tracks) and [score](readme.md#score). Your score determines your job title and therefore your salary bounds. The main purpose of the lower bounds is to ensure **fairness** across whole tech team and that nobody is underpaid. And as you get better, it also ensures that getting a raise is **guaranteed**. So at the moment, it's mainly an "alerting" mechanism for managers rather than a magic formula that determines the exact salary, especially because we acknowledge that the competencies do not capture full spectrum of stuff that everyone does.
+We define bands based on your [career track](readme.md#career-tracks) and [score](readme.md#score). Your score determines your job title and therefore your salary bounds. It is primarily a ranging mechanism rather than a magic formula that determines the exact salary. Especially because we acknowledge that the competencies do not capture full spectrum of stuff that everyone does.
 
 ## Normalization
 
