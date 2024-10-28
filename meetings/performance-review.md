@@ -1,6 +1,6 @@
 # Performance Review Meeting
 
-Every 6 months, we do performance reviews. The point of this is to identify your areas of improvement, so that you and your manager can understand where to improve. And as a consecutive step, either discuss your progress on your personal development or set up new goals.
+Every 12 months, we do performance reviews. The point of this is to identify your areas of improvement, so that you and your manager can understand where to improve. And as a consecutive step, either discuss your progress on your personal development or set up new goals.
 
 Before the meeting, make sure you have the [assessment](assessment.md) completed, think about progress on your personal goals, think of possible new personal goals and also retrospect on your past successes and failures.
 
@@ -8,7 +8,7 @@ Before the meeting, make sure you have the [assessment](assessment.md) completed
 
 The performance review meeting usually takes 2 hours. Plus there are some follow-ups afterwards. To be on the safe side, expect around 3 hours of time investment. The meeting itself consists of following phases:
 
-1. **Introduction** - Look back at the previous 6 months, talk about what went well and what went wrong.
+1. **Introduction** - Look back at the previous 12 months, talk about what went well and what went wrong.
 1. **Skills Assessment** - Together with your manager align on your competencies and skills to get your score.
 1. **Personal Goals** - Talk about the progress of your personal goals and possible opportunities for new goals with your manager. This is a great time to set up new goals.
 1. **Open Discussion** - Talk about your happiness in the company, problems, struggles, suggestions. Also you can **share feedback** with your manager.

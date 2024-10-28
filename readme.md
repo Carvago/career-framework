@@ -30,29 +30,11 @@ Individual career tracks define the responsibilities and skills you should posse
 
 # Meetings
 
-There are several important events during the year that are focused on career and personal development.
-
-### Performance Review
-
-There are two performance reviews during the year, one in May and one in November. During the performance review, you will discuss your progress, competencies and salary.
-
-- **May** - [Performance Review](meetings/performance-review.md)
+There is one performance review during the year in November. During the performance review, you will discuss your progress, competencies and salary. Career planning meeting should follow the performance review. During the career planning meeting, you will set your goals for the next period. In order to ensure incremental progress on your goals, possible steering and adjustments, you should have a catchup **each month**.
 
 - **November** - [Performance Review](meetings/performance-review.md)
-
-### Career Planning
-
-Career planning meeting should follow the performance review (twice a year). During the career planning meeting, you will set your goals for the next period.
-
-- **June** - [Career Planning](meetings/career-planning.md)
-
 - **December** - [Career Planning](meetings/career-planning.md)
-
-### Performance Catchup
-
-In order to ensure incremental progress on your goals, possible steering and adjustments, you should have a catchup **each month**.
-
-- **Each month** - [Performance Catchup](meetings/performance-catchup.md)
+- **Every month** - [Performance Catchup](meetings/performance-catchup.md)
 
 # Acknowledgement
 
